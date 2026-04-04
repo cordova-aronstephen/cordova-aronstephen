@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m currently in my third year at PUP-Taguig, pursuing a Bachelor of Science in Information Technology. Right now, I’m focused on my 4th Year Capstone Project developing a Registrar Information System, which is an exciting challenge!  
 
 In addition to that, I’m passionate about building my own project called **Bantalog** and am eager to collaborate with others. If you have expertise in UI/UX design or front-end development, I’d love to connect and work together.
